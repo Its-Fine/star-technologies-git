@@ -1,5 +1,2 @@
 name = "star-technologies-git"
 compatibility_date = "2026-05-15"
-
-[vars]
-ADMIN_TOKEN = "St@r2026!Secure#Admin#PasswordXX"
